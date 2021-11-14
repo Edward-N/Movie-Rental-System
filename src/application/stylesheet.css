@@ -1,0 +1,88 @@
+#menubar{
+	-fx-background-color: #353D48;
+}
+
+#homeShowCase{
+	-fx-background-color: #353D48;
+}
+
+#vertShowCaseBox{
+	-fx-background-color: #353D48;
+}
+
+#topShowCasePanel{
+	-fx-background-color: #353D48;
+	-fx-padding: 0 0 0 20;
+	-fx-spacing: 40;
+}
+
+#middleShowCasePanel{
+	-fx-background-color: #353D48;
+	-fx-padding: 0 0 0 20;
+	-fx-spacing: 40;
+}
+
+#bottomShowCasePanel{
+	-fx-background-color: #fc034a;
+	-fx-padding: 0 0 0 20;
+	-fx-spacing: 40;
+}
+
+.menuButtons{
+	-fx-background-color: #353D48;
+	-fx-text-fill: #FFFFFF;
+}
+
+.menuButtons:hover{
+	-fx-background-color: #5d636c;
+}
+
+.labels{
+	-fx-text-fill: #FFFFFF;
+	-fx-padding: 0 0 0 20;
+	
+}
+
+.rentalButtons{
+	-fx-background-color: #353D48;
+	-fx-text-fill: #FFFFFF;
+	-fx-font-size: 10px;
+}
+
+.rentalButtons:hover{
+	-fx-background-color: #5d636c;
+}
+
+.movieTitleLayout{
+	-fx-padding: 3 3 3 3;
+	-fx-border-color: #FFFFFF;
+	-fx-border-radius: 3px;
+	-fx-border-width: 1px;
+}
+
+.hyperlink{
+	  -fx-border-color: transparent;
+}
+
+#topbar{
+	-fx-background-color:  #4C9CF3;
+}
+
+.rentalButtonsPopUp{
+	-fx-background-color:   #4C9CF3;
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 16px;
+}
+
+.rentalButtonsPopUp:hover{
+	-fx-background-color:   #ffffff;
+	-fx-text-fill:  #4C9CF3;
+}
+
+
+
+
+
+
+
+
